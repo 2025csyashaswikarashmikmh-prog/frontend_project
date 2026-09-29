@@ -1,0 +1,31 @@
+body {
+    background-color: #1E1E1E;
+    color: #E8F5E9;
+    font-family: Poppins, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #66BB6A;
+    text-align: center;
+}
+
+h2 {
+    color: #66BB6A;
+    border-bottom: 2px solid #66BB6A;
+    padding-bottom: 5px;
+}
+
+p {
+    font-size: 16px;
+}
+
+li {
+    margin: 8px;
+}
+
+img {
+    width: 200px;
+    margin: 10px;
+    border: 2px solid #66BB6A;
+}
